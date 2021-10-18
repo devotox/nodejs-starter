@@ -33,10 +33,12 @@ yarn add nodemon --exact --dev
 * `npx nodemon server.js`
 
 ### Files
+* server.js
+  * This is the entry to the code that starts the server
 * package.json
-  This file stores the information about this package and its dependencies
+  * This file stores the information about this package and its dependencies
 * .gitignore
-  This file is needed to ensure certain files do not get sent to github
-  i.e. the `node_modules` as they are very large and you can recreate them locally by running `yarn install`
+  * This file is needed to ensure certain files do not get sent to github
+  * i.e. the `node_modules` as they are very large and you can recreate them locally by running `yarn install`
 * renovate.json
-  This file is used by a github app that automates updating packages
+  * This file is used by a github app that automates updating packages
