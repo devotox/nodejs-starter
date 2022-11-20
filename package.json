@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "fastify": "3.22.0"
+    "fastify": "4.10.0"
   },
   "devDependencies": {
     "nodemon": "2.0.13"
