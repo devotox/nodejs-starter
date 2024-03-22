@@ -10,6 +10,6 @@
     "fastify": "3.29.4"
   },
   "devDependencies": {
-    "nodemon": "2.0.13"
+    "nodemon": "2.0.22"
   }
 }
